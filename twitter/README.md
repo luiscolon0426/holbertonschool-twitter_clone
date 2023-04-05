@@ -1,3 +1,2 @@
 ## Twitter clone
--Holberton school project 
-:)
+-Holberton school project.
